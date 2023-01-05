@@ -1,0 +1,19 @@
+{
+    "name": "pavel/slotegrator",
+    "description": "package for recursively creating and deleting files and folders",
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Pavel\\Slotegrator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "R-Pavel",
+            "email": "prylsky@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
